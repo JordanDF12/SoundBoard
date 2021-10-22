@@ -14,6 +14,7 @@
 		289CCCFC2720A05C00EC84AF /* SoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 289CCCFA2720A05C00EC84AF /* SoundBoard.xcdatamodeld */; };
 		289CCCFE2720A05D00EC84AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 289CCCFD2720A05D00EC84AF /* Assets.xcassets */; };
 		289CCD012720A05D00EC84AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 289CCCFF2720A05D00EC84AF /* LaunchScreen.storyboard */; };
+		289CCD092720A6B900EC84AF /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 289CCD082720A6B900EC84AF /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		289CCCFD2720A05D00EC84AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		289CCD002720A05D00EC84AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		289CCD022720A05D00EC84AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		289CCD082720A6B900EC84AF /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				289CCCF32720A05C00EC84AF /* SceneDelegate.swift */,
 				289CCCF52720A05C00EC84AF /* ViewController.swift */,
 				289CCCF72720A05C00EC84AF /* Main.storyboard */,
+				289CCD082720A6B900EC84AF /* SoundViewController.swift */,
 				289CCCFD2720A05D00EC84AF /* Assets.xcassets */,
 				289CCCFF2720A05D00EC84AF /* LaunchScreen.storyboard */,
 				289CCD022720A05D00EC84AF /* Info.plist */,
@@ -145,6 +148,7 @@
 				289CCCF62720A05C00EC84AF /* ViewController.swift in Sources */,
 				289CCCF22720A05C00EC84AF /* AppDelegate.swift in Sources */,
 				289CCCF42720A05C00EC84AF /* SceneDelegate.swift in Sources */,
+				289CCD092720A6B900EC84AF /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
